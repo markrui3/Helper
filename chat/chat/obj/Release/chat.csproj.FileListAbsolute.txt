@@ -1,0 +1,107 @@
+I:\Users\markrui\Desktop\chat\chat\bin\Release\App.xbf
+I:\Users\markrui\Desktop\chat\chat\bin\Release\Common\StandardStyles.xbf
+I:\Users\markrui\Desktop\chat\chat\bin\Release\MainPage.xbf
+I:\Users\markrui\Desktop\chat\chat\bin\Release\MusicControl.xbf
+I:\Users\markrui\Desktop\chat\chat\bin\Release\news.xbf
+I:\Users\markrui\Desktop\chat\chat\bin\Release\TextControl.xbf
+I:\Users\markrui\Desktop\chat\chat\bin\Release\chat.exe
+I:\Users\markrui\Desktop\chat\chat\bin\Release\chat.pdb
+I:\Users\markrui\Desktop\chat\chat\bin\Release\resources.pri
+I:\Users\markrui\Desktop\chat\chat\bin\Release\AppxManifest.xml
+I:\Users\markrui\Desktop\chat\chat\bin\Release\chat.build.appxrecipe
+I:\Users\markrui\Desktop\chat\chat\obj\Release\App.g.i.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Release\App.g.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Release\Common\StandardStyles.g.i.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Release\Common\StandardStyles.g.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Release\MainPage.g.i.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Release\MainPage.g.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Release\MusicControl.g.i.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Release\MusicControl.g.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Release\news.g.i.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Release\news.g.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Release\TextControl.g.i.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Release\TextControl.g.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Release\XamlTypeInfo.g.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Release\App.xaml
+I:\Users\markrui\Desktop\chat\chat\obj\Release\Common\StandardStyles.xaml
+I:\Users\markrui\Desktop\chat\chat\obj\Release\MainPage.xaml
+I:\Users\markrui\Desktop\chat\chat\obj\Release\MusicControl.xaml
+I:\Users\markrui\Desktop\chat\chat\obj\Release\news.xaml
+I:\Users\markrui\Desktop\chat\chat\obj\Release\TextControl.xaml
+I:\Users\markrui\Desktop\chat\chat\obj\Release\App.xbf
+I:\Users\markrui\Desktop\chat\chat\obj\Release\Common\StandardStyles.xbf
+I:\Users\markrui\Desktop\chat\chat\obj\Release\MainPage.xbf
+I:\Users\markrui\Desktop\chat\chat\obj\Release\MusicControl.xbf
+I:\Users\markrui\Desktop\chat\chat\obj\Release\news.xbf
+I:\Users\markrui\Desktop\chat\chat\obj\Release\TextControl.xbf
+I:\Users\markrui\Desktop\chat\chat\obj\Release\XamlSaveStateFile.xml
+I:\Users\markrui\Desktop\chat\chat\obj\Release\chat.exe
+I:\Users\markrui\Desktop\chat\chat\obj\Release\chat.pdb
+I:\Users\markrui\Desktop\chat\chat\obj\Release\priconfig.xml
+I:\Users\markrui\Desktop\chat\chat\obj\Release\priconfig.xml.intermediate
+I:\Users\markrui\Desktop\chat\chat\obj\Release\layout.resfiles
+I:\Users\markrui\Desktop\chat\chat\obj\Release\layout.resfiles.intermediate
+I:\Users\markrui\Desktop\chat\chat\obj\Release\resources.resfiles
+I:\Users\markrui\Desktop\chat\chat\obj\Release\resources.resfiles.intermediate
+I:\Users\markrui\Desktop\chat\chat\obj\Release\pri.resfiles
+I:\Users\markrui\Desktop\chat\chat\obj\Release\pri.resfiles.intermediate
+I:\Users\markrui\Desktop\chat\chat\obj\Release\qualifiers.txt
+I:\Users\markrui\Desktop\chat\chat\obj\Release\qualifiers.txt.intermediate
+I:\Users\markrui\Desktop\chat\chat\obj\Release\MultipleQualifiersPerDimensionFound.txt
+I:\Users\markrui\Desktop\chat\chat\obj\Release\ProjectArchitectures.txt
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\App.xbf
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\Common\StandardStyles.xbf
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\MainPage.xbf
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\MusicControl.xbf
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\news.xbf
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\TextControl.xbf
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\chat.exe
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\chat.pdb
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\resources.pri
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\AppxManifest.xml
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\chat.build.appxrecipe
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\App.g.i.cs
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\App.g.cs
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\Common\StandardStyles.g.i.cs
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\Common\StandardStyles.g.cs
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\MainPage.g.i.cs
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\MainPage.g.cs
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\MusicControl.g.i.cs
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\MusicControl.g.cs
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\news.g.i.cs
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\news.g.cs
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\TextControl.g.i.cs
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\TextControl.g.cs
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\XamlTypeInfo.g.cs
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\App.xaml
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\Common\StandardStyles.xaml
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\MainPage.xaml
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\MusicControl.xaml
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\news.xaml
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\TextControl.xaml
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\App.xbf
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\Common\StandardStyles.xbf
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\MainPage.xbf
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\MusicControl.xbf
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\news.xbf
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\TextControl.xbf
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\XamlSaveStateFile.xml
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\chat.exe
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\chat.pdb
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\priconfig.xml
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\priconfig.xml.intermediate
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\layout.resfiles
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\layout.resfiles.intermediate
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\resources.resfiles
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\resources.resfiles.intermediate
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\pri.resfiles
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\pri.resfiles.intermediate
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\qualifiers.txt
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\qualifiers.txt.intermediate
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\MultipleQualifiersPerDimensionFound.txt
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\ProjectArchitectures.txt
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\Newtonsoft.Json.dll
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\Newtonsoft.Json.pdb
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\Newtonsoft.Json.xml
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\chat.csprojResolveAssemblyReference.cache
+D:\桌面文件夹\学习软件\imagine cup\chat\chat\obj\Release\chat.csproj.GenerateResource.Cache

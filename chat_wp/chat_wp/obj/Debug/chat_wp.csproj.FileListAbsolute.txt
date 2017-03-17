@@ -1,0 +1,145 @@
+I:\Users\markrui\Desktop\chat_wp\chat_wp\Bin\Debug\Assets\ApplicationIcon.png
+I:\Users\markrui\Desktop\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+I:\Users\markrui\Desktop\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+I:\Users\markrui\Desktop\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+I:\Users\markrui\Desktop\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+I:\Users\markrui\Desktop\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+I:\Users\markrui\Desktop\chat_wp\chat_wp\Bin\Debug\chat_wp.dll
+I:\Users\markrui\Desktop\chat_wp\chat_wp\Bin\Debug\chat_wp.pdb
+I:\Users\markrui\Desktop\chat_wp\chat_wp\Bin\Debug\AppManifest.xaml
+I:\Users\markrui\Desktop\chat_wp\chat_wp\Bin\Debug\chat_wp_Debug_AnyCPU.xap
+I:\Users\markrui\Desktop\chat_wp\chat_wp\obj\Debug\App.g.cs
+I:\Users\markrui\Desktop\chat_wp\chat_wp\obj\Debug\MainPage.g.cs
+I:\Users\markrui\Desktop\chat_wp\chat_wp\obj\Debug\chat_wp.g.resources
+I:\Users\markrui\Desktop\chat_wp\chat_wp\obj\Debug\chat_wp.Resources.AppResources.resources
+I:\Users\markrui\Desktop\chat_wp\chat_wp\obj\Debug\chat_wp.csproj.GenerateResource.Cache
+I:\Users\markrui\Desktop\chat_wp\chat_wp\obj\Debug\chat_wp.dll
+I:\Users\markrui\Desktop\chat_wp\chat_wp\obj\Debug\chat_wp.pdb
+I:\Users\markrui\Desktop\chat_wp\chat_wp\obj\Debug\XapCacheFile.xml
+I:\Users\markrui\Desktop\chat_wp\chat_wp\obj\Debug\chat_wp.csprojResolveAssemblyReference.cache
+I:\Users\markrui\Desktop\chat_wp\chat_wp\Bin\Debug\Properties\WMAppManifest.xml
+I:\Users\markrui\Desktop\chat_wp\chat_wp\Bin\Debug\Newtonsoft.Json.dll
+I:\Users\markrui\Desktop\chat_wp\chat_wp\obj\Debug\music.g.cs
+I:\Users\markrui\Desktop\chat_wp\chat_wp\obj\Debug\news.g.cs
+I:\Users\markrui\Desktop\chat_wp\chat_wp\obj\Debug\text.g.cs
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\Bin\Debug\Assets\ApplicationIcon.png
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\Bin\Debug\chat_wp.dll
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\Bin\Debug\chat_wp.pdb
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\Bin\Debug\AppManifest.xaml
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\Bin\Debug\Properties\WMAppManifest.xml
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\Bin\Debug\chat_wp_Debug_AnyCPU.xap
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\Bin\Debug\Newtonsoft.Json.dll
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\obj\Debug\chat_wp.csprojResolveAssemblyReference.cache
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\obj\Debug\App.g.cs
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\obj\Debug\MainPage.g.cs
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\obj\Debug\music.g.cs
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\obj\Debug\news.g.cs
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\obj\Debug\text.g.cs
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\obj\Debug\chat_wp.g.resources
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\obj\Debug\chat_wp.Resources.AppResources.resources
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\obj\Debug\chat_wp.csproj.GenerateResource.Cache
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\obj\Debug\chat_wp.dll
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\obj\Debug\chat_wp.pdb
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\obj\Debug\XapCacheFile.xml
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\Bin\Debug\Newtonsoft.Json.pdb
+D:\桌面文件夹\学习软件\imagine cup\chat_wp\chat_wp\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\桐\Desktop\chat_wp\chat_wp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\桐\Desktop\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\桐\Desktop\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\桐\Desktop\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\桐\Desktop\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\桐\Desktop\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\桐\Desktop\chat_wp\chat_wp\Bin\Debug\chat_wp.dll
+C:\Users\桐\Desktop\chat_wp\chat_wp\Bin\Debug\chat_wp.pdb
+C:\Users\桐\Desktop\chat_wp\chat_wp\Bin\Debug\AppManifest.xaml
+C:\Users\桐\Desktop\chat_wp\chat_wp\Bin\Debug\chat_wp_Debug_AnyCPU.xap
+C:\Users\桐\Desktop\chat_wp\chat_wp\obj\Debug\chat_wp.csprojResolveAssemblyReference.cache
+C:\Users\桐\Desktop\chat_wp\chat_wp\obj\Debug\App.g.cs
+C:\Users\桐\Desktop\chat_wp\chat_wp\obj\Debug\MainPage.g.cs
+C:\Users\桐\Desktop\chat_wp\chat_wp\obj\Debug\music.g.cs
+C:\Users\桐\Desktop\chat_wp\chat_wp\obj\Debug\news.g.cs
+C:\Users\桐\Desktop\chat_wp\chat_wp\obj\Debug\text.g.cs
+C:\Users\桐\Desktop\chat_wp\chat_wp\obj\Debug\chat_wp.g.resources
+C:\Users\桐\Desktop\chat_wp\chat_wp\obj\Debug\chat_wp.Resources.AppResources.resources
+C:\Users\桐\Desktop\chat_wp\chat_wp\obj\Debug\chat_wp.csproj.GenerateResource.Cache
+C:\Users\桐\Desktop\chat_wp\chat_wp\obj\Debug\chat_wp.dll
+C:\Users\桐\Desktop\chat_wp\chat_wp\obj\Debug\chat_wp.pdb
+C:\Users\桐\Desktop\chat_wp\chat_wp\obj\Debug\XapCacheFile.xml
+C:\Users\桐\Desktop\chat_wp\chat_wp\Bin\Debug\Newtonsoft.Json.dll
+I:\chat_wp\chat_wp\Bin\Debug\Assets\ApplicationIcon.png
+I:\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+I:\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+I:\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+I:\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+I:\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+I:\chat_wp\chat_wp\Bin\Debug\chat_wp.dll
+I:\chat_wp\chat_wp\Bin\Debug\chat_wp.pdb
+I:\chat_wp\chat_wp\Bin\Debug\AppManifest.xaml
+I:\chat_wp\chat_wp\Bin\Debug\Properties\WMAppManifest.xml
+I:\chat_wp\chat_wp\Bin\Debug\chat_wp_Debug_AnyCPU.xap
+I:\chat_wp\chat_wp\Bin\Debug\Newtonsoft.Json.dll
+I:\chat_wp\chat_wp\obj\Debug\chat_wp.csprojResolveAssemblyReference.cache
+I:\chat_wp\chat_wp\obj\Debug\App.g.cs
+I:\chat_wp\chat_wp\obj\Debug\MainPage.g.cs
+I:\chat_wp\chat_wp\obj\Debug\news.g.cs
+I:\chat_wp\chat_wp\obj\Debug\chat_wp.g.resources
+I:\chat_wp\chat_wp\obj\Debug\chat_wp.Resources.AppResources.resources
+I:\chat_wp\chat_wp\obj\Debug\chat_wp.csproj.GenerateResource.Cache
+I:\chat_wp\chat_wp\obj\Debug\chat_wp.dll
+I:\chat_wp\chat_wp\obj\Debug\chat_wp.pdb
+I:\chat_wp\chat_wp\obj\Debug\XapCacheFile.xml
+L:\chat_wp\chat_wp\Bin\Debug\Assets\ApplicationIcon.png
+L:\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+L:\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+L:\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+L:\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+L:\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+L:\chat_wp\chat_wp\Bin\Debug\chat_wp.dll
+L:\chat_wp\chat_wp\Bin\Debug\chat_wp.pdb
+L:\chat_wp\chat_wp\Bin\Debug\AppManifest.xaml
+L:\chat_wp\chat_wp\Bin\Debug\Properties\WMAppManifest.xml
+L:\chat_wp\chat_wp\Bin\Debug\chat_wp_Debug_AnyCPU.xap
+L:\chat_wp\chat_wp\Bin\Debug\Newtonsoft.Json.dll
+L:\chat_wp\chat_wp\obj\Debug\chat_wp.csprojResolveAssemblyReference.cache
+L:\chat_wp\chat_wp\obj\Debug\App.g.cs
+L:\chat_wp\chat_wp\obj\Debug\MainPage.g.cs
+L:\chat_wp\chat_wp\obj\Debug\music.g.cs
+L:\chat_wp\chat_wp\obj\Debug\news.g.cs
+L:\chat_wp\chat_wp\obj\Debug\text.g.cs
+L:\chat_wp\chat_wp\obj\Debug\chat_wp.g.resources
+L:\chat_wp\chat_wp\obj\Debug\chat_wp.Resources.AppResources.resources
+L:\chat_wp\chat_wp\obj\Debug\chat_wp.csproj.GenerateResource.Cache
+L:\chat_wp\chat_wp\obj\Debug\chat_wp.dll
+L:\chat_wp\chat_wp\obj\Debug\chat_wp.pdb
+L:\chat_wp\chat_wp\obj\Debug\XapCacheFile.xml
+J:\chat_wp\chat_wp\Bin\Debug\Assets\ApplicationIcon.png
+J:\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+J:\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+J:\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+J:\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+J:\chat_wp\chat_wp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+J:\chat_wp\chat_wp\Bin\Debug\chat_wp.dll
+J:\chat_wp\chat_wp\Bin\Debug\chat_wp.pdb
+J:\chat_wp\chat_wp\Bin\Debug\AppManifest.xaml
+J:\chat_wp\chat_wp\Bin\Debug\Properties\WMAppManifest.xml
+J:\chat_wp\chat_wp\Bin\Debug\chat_wp_Debug_AnyCPU.xap
+J:\chat_wp\chat_wp\Bin\Debug\Newtonsoft.Json.dll
+J:\chat_wp\chat_wp\obj\Debug\App.g.cs
+J:\chat_wp\chat_wp\obj\Debug\MainPage.g.cs
+J:\chat_wp\chat_wp\obj\Debug\news.g.cs
+J:\chat_wp\chat_wp\obj\Debug\chat_wp.g.resources
+J:\chat_wp\chat_wp\obj\Debug\chat_wp.Resources.AppResources.resources
+J:\chat_wp\chat_wp\obj\Debug\chat_wp.csproj.GenerateResource.Cache
+J:\chat_wp\chat_wp\obj\Debug\chat_wp.dll
+J:\chat_wp\chat_wp\obj\Debug\chat_wp.pdb
+J:\chat_wp\chat_wp\obj\Debug\XapCacheFile.xml
+J:\chat_wp\chat_wp\obj\Debug\MusicControl.g.cs
+J:\chat_wp\chat_wp\obj\Debug\TextControl.g.cs
+J:\chat_wp\chat_wp\obj\Debug\chat_wp.csprojResolveAssemblyReference.cache
+I:\chat_wp\chat_wp\obj\Debug\MusicControl.g.cs
+I:\chat_wp\chat_wp\obj\Debug\TextControl.g.cs

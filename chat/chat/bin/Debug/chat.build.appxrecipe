@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ZR</Machine>
+    <WindowsUser>markrui</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c80f9376-65cd-4b48-96a6-4fdca3f6b0e2</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="I:\Users\markrui\Desktop\chat\chat\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="I:\Users\markrui\Desktop\chat\chat\bin\Debug\chat.exe">
+      <PackagePath>chat.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Users\markrui\Desktop\chat\chat\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Users\markrui\Desktop\chat\chat\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Users\markrui\Desktop\chat\chat\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Users\markrui\Desktop\chat\chat\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Users\markrui\Desktop\chat\chat\Assets\playing.jpg">
+      <PackagePath>Assets\playing.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Users\markrui\Desktop\chat\chat\Assets\stopped.jpg">
+      <PackagePath>Assets\stopped.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Users\markrui\Desktop\chat\chat\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Users\markrui\Desktop\chat\chat\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Users\markrui\Desktop\chat\chat\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Users\markrui\Desktop\chat\chat\bin\Debug\MusicControl.xbf">
+      <PackagePath>MusicControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Users\markrui\Desktop\chat\chat\bin\Debug\news.xbf">
+      <PackagePath>news.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Users\markrui\Desktop\chat\chat\bin\Debug\TextControl.xbf">
+      <PackagePath>TextControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Users\markrui\Desktop\chat\chat\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

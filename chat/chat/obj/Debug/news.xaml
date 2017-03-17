@@ -1,0 +1,18 @@
+﻿<UserControl
+    x:Class="chat.news"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:chat"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Width="380" Height="266">
+
+    <Grid x:Name="grid" Margin="0,10,10,0">
+        <ScrollViewer HorizontalAlignment="Left" Height="256" VerticalAlignment="Top" Width="370">
+            <ScrollViewer.Content>
+                <StackPanel x:Name="lv" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            </ScrollViewer.Content>
+        </ScrollViewer>
+    </Grid>
+</UserControl>
+

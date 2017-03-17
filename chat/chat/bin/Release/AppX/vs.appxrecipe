@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ZR</Machine>
+    <WindowsUser>markrui</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>49753eos.Letschat</PackageIdentityName>
+    <RegisteredManifestChecksum>B6EE8957E2C8D7C6ACC8C5D8EEF278BF175BE8DF783D1ABB31C2DAF157BBDB40</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>49753eos.Letschat_1.1.0.0_neutral__tx9p7stx9rdbt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>49753eos.Letschat_tx9p7stx9rdbt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>49753eos.Letschat</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=9C9165E1-C302-4CAB-8807-A4F7FA945BD1</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-21T13:28:59.259</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\chat.exe">
+      <PackagePath>chat.exe</PackagePath>
+      <Modified>2014-04-20T15:21:15.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Users\markrui\Downloads\Json45r9\Bin\Portable\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2012-09-07T19:00:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\桌面文件夹\学习软件\imagine cup\chat\chat\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-06T08:52:48.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\桌面文件夹\学习软件\imagine cup\chat\chat\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-06T08:52:57.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\桌面文件夹\学习软件\imagine cup\chat\chat\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-06T08:52:58.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\桌面文件夹\学习软件\imagine cup\chat\chat\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-06T08:52:59.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\桌面文件夹\学习软件\imagine cup\chat\chat\Assets\playing.jpg">
+      <PackagePath>Assets\playing.jpg</PackagePath>
+      <Modified>2014-03-04T02:40:03.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\桌面文件夹\学习软件\imagine cup\chat\chat\Assets\stopped.jpg">
+      <PackagePath>Assets\stopped.jpg</PackagePath>
+      <Modified>2014-03-04T02:37:00.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-03-26T14:39:21.619</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2014-03-09T05:07:40.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-03-09T05:07:40.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\MusicControl.xbf">
+      <PackagePath>MusicControl.xbf</PackagePath>
+      <Modified>2014-03-09T05:07:40.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\news.xbf">
+      <PackagePath>news.xbf</PackagePath>
+      <Modified>2014-03-09T05:07:40.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\TextControl.xbf">
+      <PackagePath>TextControl.xbf</PackagePath>
+      <Modified>2014-03-09T05:07:40.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\桌面文件夹\学习软件\imagine cup\chat\chat\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-04-21T13:28:58.899</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

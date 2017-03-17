@@ -1,0 +1,78 @@
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\bin\Debug\chat.exe
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\bin\Debug\chat.pdb
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\bin\Debug\resources.pri
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\bin\Debug\AppxManifest.xml
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\bin\Debug\chat.build.appxrecipe
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\App.g.i.cs
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\App.g.cs
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\Common\StandardStyles.g.cs
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\MainPage.g.i.cs
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\MainPage.g.cs
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\XamlTypeInfo.g.cs
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\App.xaml
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\Common\StandardStyles.xaml
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\MainPage.xaml
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\chat.exe
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\chat.pdb
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\priconfig.xml
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\layout.resfiles
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\resources.resfiles
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\pri.resfiles
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\LanguageQualifiers.txt
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\ProjectArchitectures.txt
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\priconfig.xml.intermediate
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\layout.resfiles.intermediate
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\resources.resfiles.intermediate
+D:\Microsoft Visual Studio 11.0\Projects\chat\chat\obj\Debug\pri.resfiles.intermediate
+I:\Users\markrui\Desktop\chat\chat\bin\Debug\chat.exe
+I:\Users\markrui\Desktop\chat\chat\bin\Debug\chat.pdb
+I:\Users\markrui\Desktop\chat\chat\bin\Debug\resources.pri
+I:\Users\markrui\Desktop\chat\chat\bin\Debug\AppxManifest.xml
+I:\Users\markrui\Desktop\chat\chat\bin\Debug\chat.build.appxrecipe
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\App.g.i.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\App.g.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\Common\StandardStyles.g.i.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\Common\StandardStyles.g.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\MainPage.g.i.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\MainPage.g.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\XamlTypeInfo.g.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\App.xaml
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\Common\StandardStyles.xaml
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\MainPage.xaml
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\chat.exe
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\chat.pdb
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\priconfig.xml.intermediate
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\layout.resfiles.intermediate
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\resources.resfiles.intermediate
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\pri.resfiles.intermediate
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\priconfig.xml
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\layout.resfiles
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\resources.resfiles
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\pri.resfiles
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\ProjectArchitectures.txt
+I:\Users\markrui\Desktop\chat\chat\bin\Debug\App.xbf
+I:\Users\markrui\Desktop\chat\chat\bin\Debug\Common\StandardStyles.xbf
+I:\Users\markrui\Desktop\chat\chat\bin\Debug\MainPage.xbf
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\XamlSaveStateFile.xml
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\App.xbf
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\MainPage.xbf
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\qualifiers.txt
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\qualifiers.txt.intermediate
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\Common\StandardStyles.xbf
+I:\Users\markrui\Desktop\chat\chat\bin\Debug\news.xbf
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\news.g.i.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\news.g.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\news.xaml
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\news.xbf
+I:\Users\markrui\Desktop\chat\chat\bin\Debug\MusicControl.xbf
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\MusicControl.g.i.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\MusicControl.g.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\MusicControl.xaml
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\MusicControl.xbf
+I:\Users\markrui\Desktop\chat\chat\bin\Debug\TextControl.xbf
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\TextControl.g.i.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\TextControl.g.cs
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\TextControl.xaml
+I:\Users\markrui\Desktop\chat\chat\obj\Debug\TextControl.xbf

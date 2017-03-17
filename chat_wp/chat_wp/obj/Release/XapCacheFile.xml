@@ -1,0 +1,14 @@
+﻿<xapCache source="J:\chat_wp\chat_wp\Bin\Release\chat_wp_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/4/21 14:29:36">
+  <file source="J:\chat_wp\chat_wp\obj\Release\chat_wp.dll" archivePath="chat_wp.dll" lastWriteTime="2014/4/21 14:21:57" />
+  <file source="J:\chat_wp\chat_wp\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="2014/2/15 22:24:10" />
+  <file source="J:\chat_wp\chat_wp\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="2014/4/21 0:21:09" />
+  <file source="J:\chat_wp\chat_wp\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="2014/3/19 14:19:06" />
+  <file source="J:\chat_wp\chat_wp\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="2014/3/19 14:17:33" />
+  <file source="J:\chat_wp\chat_wp\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="2014/3/19 14:14:46" />
+  <file source="J:\chat_wp\chat_wp\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="2014/3/19 14:14:00" />
+  <file source="J:\chat_wp\chat_wp\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/4/21 14:10:55" />
+  <file source="J:\chat_wp\chat_wp\Bin\Release\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="2014/3/19 14:11:50" />
+  <file source="J:\chat_wp\chat_wp\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="2014/3/19 14:16:51" />
+  <file source="J:\chat_wp\chat_wp\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="2012/9/8 3:00:34" />
+  <file source="J:\chat_wp\chat_wp\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014/4/21 14:29:36" />
+</xapCache>
